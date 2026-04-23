@@ -1,0 +1,19 @@
+{
+  "Name": "Socrates",
+  "Author": "Clipover",
+  "Description": "If wisdom is your power, what are you without it?",
+  "ModVersion": "1.0",
+  "GameVersion": "Latest",
+  "ThumbnailPath": "Thumbnails/Thumb.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun",
+    "Meme"
+  ],
+  "Scripts": [
+    "mod.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": null
+}
